@@ -15,10 +15,10 @@ namespace Lecture1
             Console.WriteLine("Enter Second Number :");
             int No2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Sum of Two Numbers is :" + (No1+No2));
-            Console.WriteLine("Enter First Number:"+(No1-No2));
-            Console.WriteLine("Enter First Number:"+(No1*No2));
-            Console.WriteLine("Enter First Number:"+(No1/No2));
-            Console.WriteLine("Enter First Number:" + (No1 % No2));
+            Console.WriteLine("DIIFERENCE:"+(No1-No2));
+            Console.WriteLine("PRODUCT:"+(No1*No2));
+            Console.WriteLine("DIVIDE:"+(No1/No2));
+            Console.WriteLine("REM:" + (No1 % No2));
         }
     }
 }

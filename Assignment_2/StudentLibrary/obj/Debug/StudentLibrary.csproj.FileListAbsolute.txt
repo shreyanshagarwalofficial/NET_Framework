@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\MCA_Lecture\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\MCA_Lecture\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MCA_Lecture\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Asus\Documents\MCA_Lecture\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Asus\Documents\MCA_Lecture\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\Asus\Documents\MCA_Lecture\StudentLibrary\obj\Debug\StudentLibrary.pdb

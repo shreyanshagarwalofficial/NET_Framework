@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\bin\Debug\StudentClient.exe.config
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\bin\Debug\StudentClient.exe
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\bin\Debug\StudentClient.pdb
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\bin\Debug\StudentLibrary.dll
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\bin\Debug\StudentLibrary.pdb
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\obj\Debug\StudentClient.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\obj\Debug\StudentClient.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\obj\Debug\StudentC.916A0022.Up2Date
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\obj\Debug\StudentClient.exe
+C:\Users\Asus\Documents\MCA_Lecture\StudentClient\obj\Debug\StudentClient.pdb

@@ -16,7 +16,7 @@ namespace Lab1_AcessModifiers
             Console.WriteLine();
             Console.WriteLine("TestStudent");
             TestStudent testStudent = new TestStudent();
-            testStudent.TestAccess();
+            testStudent.LabEx();
         }
     }
 }

@@ -9,9 +9,9 @@ namespace Lab1_AccessModifiers
             Student student = new Student();
 
             Console.WriteLine("Accessible Members:");
-            Console.WriteLine("Name: " + student.Name);
-            Console.WriteLine("CGPA : " + student.CGPA);
-            Console.WriteLine("College    : " + student.College);
+            Console.WriteLine("Name:" + student.Name);
+            Console.WriteLine("CGPA:" + student.CGPA);
+            Console.WriteLine("College:" + student.College);
             Console.WriteLine();
             Console.WriteLine("Inaccessible Members:");
             // Console.WriteLine("Age : " + student.Age);

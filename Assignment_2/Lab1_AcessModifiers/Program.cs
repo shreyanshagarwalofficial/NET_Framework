@@ -10,6 +10,13 @@ namespace Lab1_AcessModifiers
     {
         static void Main(string[] args)
         {
+             Student student = new Student();
+            Console.WriteLine("Student.Display()");
+            student.Display();
+            Console.WriteLine();
+            Console.WriteLine("TestStudent");
+            TestStudent testStudent = new TestStudent();
+            testStudent.TestAccess();
         }
     }
 }

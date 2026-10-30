@@ -1,0 +1,5 @@
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\netstandard2.0\TaxLibrary.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\netstandard2.0\TaxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\netstandard2.0\TaxLibrary.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\netstandard2.0\TaxLibrary.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\netstandard2.0\TaxLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaxCalc/TaxCalc.csproj" Id="a9213dc4-7040-43d5-9e58-fa991e7bee5f" />
+  <Project Path="TaxLibrary/TaxLibrary.csproj" />
+</Solution>

@@ -1,0 +1,9 @@
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\bin\Debug\net472\TaxLibrary.dll
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\bin\Debug\net472\TaxLibrary.pdb
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.dll
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxLibrary\obj\Debug\net472\TaxLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\bin\Debug\TaxCalc.exe.config
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\bin\Debug\TaxCalc.exe
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\bin\Debug\TaxCalc.pdb
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\bin\Debug\TaxLibrary.dll
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\bin\Debug\TaxLibrary.pdb
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\obj\Debug\TaxCalc.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\obj\Debug\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\obj\Debug\TaxCalc.csproj.Up2Date
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\obj\Debug\TaxCalc.exe
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\TaxLibrary\TaxCalc\obj\Debug\TaxCalc.pdb

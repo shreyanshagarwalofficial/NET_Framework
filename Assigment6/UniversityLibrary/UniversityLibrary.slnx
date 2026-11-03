@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AttendanceApp/AttendanceApp.csproj" />
+  <Project Path="ExaminationApp/ExaminationApp.csproj" />
+  <Project Path="UniversityLibrary/UniversityLibrary.csproj" />
+</Solution>

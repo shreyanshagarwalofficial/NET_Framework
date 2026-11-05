@@ -1,0 +1,6 @@
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\SalaryLibraryV2\bin\Debug\SalaryLibraryV2.dll
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\SalaryLibraryV2\bin\Debug\SalaryLibraryV2.pdb
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\SalaryLibraryV2\obj\Debug\SalaryLibraryV2.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\SalaryLibraryV2\obj\Debug\SalaryLibraryV2.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\SalaryLibraryV2\obj\Debug\SalaryLibraryV2.dll
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\SalaryLibraryV2\obj\Debug\SalaryLibraryV2.pdb

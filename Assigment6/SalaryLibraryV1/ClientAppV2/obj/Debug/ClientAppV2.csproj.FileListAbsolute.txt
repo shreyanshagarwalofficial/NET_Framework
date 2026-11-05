@@ -1,0 +1,9 @@
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\bin\Debug\ClientAppV2.exe.config
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\bin\Debug\ClientAppV2.exe
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\bin\Debug\ClientAppV2.pdb
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\bin\Debug\SalaryLibraryV2.dll
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\obj\Debug\ClientAppV2.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\obj\Debug\ClientAppV2.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\obj\Debug\ClientAp.D7C4C886.Up2Date
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\obj\Debug\ClientAppV2.exe
+C:\Users\shrey\OneDrive\Documents\MCA SUBJECTS NOTES\C#\SalaryLibraryV1\ClientAppV2\obj\Debug\ClientAppV2.pdb
